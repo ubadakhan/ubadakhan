@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ubadakhan
+- 👋 Hi, I’m @ubada dawood
 - 👀 I’m interested in computer and programming.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on learning programming.
